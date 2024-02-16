@@ -1,1 +1,1 @@
-# Statify
+Statify is an open-source repository dedicated to providing a comprehensive collection of statistics concepts, tools, and resources for data analysts and data scientists. Whether you're a beginner looking to learn the fundamentals or an experienced practitioner seeking advanced techniques, Statify aims to be your go-to resource.
